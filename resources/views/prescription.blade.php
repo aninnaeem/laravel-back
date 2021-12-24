@@ -115,7 +115,7 @@ button {
 
 <br>
 
-<form class="modal" method="post" action="{{url('/')}}" id='selectform'>
+<form class="modal" method="post" action="{{url('/prescription')}}" id='selectform'>
   <div class="container">
   <big><div align="center"><big>PRESCRIPTION</div>
     <div align="center"><button class="ml-2"><a href="/prescription" style="padding:10px; color: white;">Back to List</a></button><button class="button button3" onclick="window.location.href='/'">Back to Home</button></div>
