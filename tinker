@@ -1,0 +1,1 @@
+DB::table("flights")->insert(["name"=>"abc","from"=>"dsds0","to"=>"ggg","created_at"=>new DateTime]);
